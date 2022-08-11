@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569497005458",
+    "project_id": "garden-photo-frame-832d0",
+    "storage_bucket": "garden-photo-frame-832d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569497005458:android:9ee422e843ebe63dd5e54b",
+        "android_client_info": {
+          "package_name": "com.kaz.gardenphotoframe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569497005458-2fqqsh38ckoquth64nqrhvmvs86ufbcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy5bwHqIb2hfZEQ5c37nu6gVCylnk99mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569497005458-2fqqsh38ckoquth64nqrhvmvs86ufbcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:background="@drawable/bgframe"
+    android:gravity="center_horizontal"
+    tools:context=".Save.KAZ_saveImageActivity">
+
+    <LinearLayout
+        android:id="@+id/lineartoolbar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_40sdp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textshader"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center_horizontal"
+            android:text="Alubm"
+            android:fontFamily="@font/font_1"
+            android:layout_marginTop="@dimen/_2dp"
+            android:textSize="@dimen/_20sdp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <GridView
+        android:id="@+id/gv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lineartoolbar"
+        android:layout_centerHorizontal="true"
+        android:footerDividersEnabled="false"
+        android:numColumns="2"
+        android:layout_margin="@dimen/_7sdp"
+        android:scrollbars="none" />
+
+</RelativeLayout>

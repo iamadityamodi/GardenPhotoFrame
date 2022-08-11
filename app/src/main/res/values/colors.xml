@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#C9D942</color>
+    <color name="purple_500">#C9D942</color>
+    <color name="purple_700">#C9D942</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary">#f23d85</color>
+    <color name="primary_second">#6944f8</color>
+
+    <color name="textcolor">#CF20C0</color>
+
+
+    <color name="ucrop_color_statusbar">@color/purple_700</color>
+    <color name="ucrop_color_toolbar">#C9D942</color>
+    <color name="ucrop_color_toolbar_widget">@color/white</color>
+    <color name="ucrop_color_blaze_orange">#C9D942</color>
+
+
+
+    <color name="ucrop_color_widget_active">@color/purple_700</color>
+    <color name="ucrop_color_active_controls_color">#FFFFFF</color>
+    <color name="ucrop_color_widget_rotate_mid_line">@color/purple_700</color>
+    <color name="ucrop_color_widget_background">#fff</color>
+
+
+    <color name="blue">#2196F3</color>
+    <color name="dark_gray">#ff787878</color>
+    <color name="graytext">#828282</color>
+    <color name="colorTextGrey1">#000000</color>
+    <color name="colorTextGrey2">#5a5a5a</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="fivescreen">#5ab948</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+
+
+
+</resources>

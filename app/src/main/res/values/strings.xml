@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Garden Photo Frame</string>
+
+    <string name="title_activity_alubm">AlubmActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_save_image">saveImageActivity</string>
+
+
+
+    <string name="notify"> notification</string>
+    <string name="_1_month">1 Month</string>
+    <string name="_6_month">6 Months</string>
+    <string name="_12_month">12 Months</string>
+    <string name="all_feature">All Feature</string>
+    <string name="new_york_ny">New York, NY</string>
+    <string name="default_region">DEFAULT REGION</string>
+    <string name="log_in">LOGIN</string>
+    <string name="carrier_id_title">Carrier ID: </string>
+    <string name="host_url_title">Host Url: </string>
+    <string name="best_performance_server">Select Fastest Server</string>
+    <string name="seenStatus">Seen Status</string>
+    <string name="select_country">Select a county</string>
+
+    <string name="lock_screen_status">Lock Screen Status</string>
+
+</resources>
